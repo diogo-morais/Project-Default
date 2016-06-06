@@ -1,0 +1,36 @@
+####### LIST OF CHARTS #######
+
+--FusionCharts XT--
+
+Single Series Charts:
+	-Column 2D (column2d)
+	-Column 3D (column3d)
+	-Line 2D (line)
+	-Area 2D (area2d)
+	-Bar 2D (bar2d)
+	-Bar 3D (bar3d)
+	-Pie 2D (pie2d)
+	-Pie 3D (pie3d)
+	-Doughnut 2D (doughnut2d)
+	-Doughnut 3D (doughnut3d)
+	-Pareto 2D (pareto2d)
+	-Pareto 3D (pareto3d)
+
+Multi-series Charts:
+	-Multi-series Column 2D (mscolumn2d)
+	-Multi-series Column 3D (mscolumn3d)
+	-Multi-series Line 2D (msline)
+	-Multi-series Bar 2D (msbar2d)
+	-Multi-series Bar 3D (msbar3d)
+	-Multi-series Area 2D (msarea)
+	-Marimekko (marimekko)
+	-Zoom Line (zoomline)
+	-Zom Line DY (zoomlinedy)
+
+Stacked Charts:
+	-Stacked Column 2D
+	-Stacked Column 3D
+	-Stacked Bar 2D
+	-Stacked Bar 3D
+	-Stacked Area 2D
+	-Multi-series Stacked Column 2D
